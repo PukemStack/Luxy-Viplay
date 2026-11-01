@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="play" mimetype="application/x-microsoft.net.object.binary.base64"><value>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</value></data></root>
