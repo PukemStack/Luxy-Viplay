@@ -1907,22 +1907,33 @@ public class fchinh : Form
 				return;
 			}
 			sol.kichhoat(mavideo, text2, text3, text6, text5);
-			if (sol.nkichhoat == 1)
-			{
-				label4.Hide();
-				lbsolanxem.Show();
-				setngonngu(ngon_ngu, "dasudung");
-			}
-			if (sol.nkichhoat == 3 || sol.nkichhoat == 4 || sol.nkichhoat == 5)
-			{
-				solanxem = 0;
-				label4.Hide();
-				setngonngu(ngon_ngu, "lbthanhcong");
-				lbsolanxem.Show();
-				label1.Hide();
-				setngonngu(ngon_ngu, "thanhcong");
-			}
-		}
+            if (sol.nkichhoat == 1)
+            {
+                label4.Hide();
+                lbsolanxem.Show();
+                setngonngu(ngon_ngu, "dasudung");
+            }
+            if (sol.nkichhoat == 3)
+            {
+                solanxem = 0;
+                label4.Hide();
+                setngonngu(ngon_ngu, "lbthanhcong");
+                lbsolanxem.Show();
+                label1.Hide();
+                setngonngu(ngon_ngu, "thanhcong");
+            }
+            if (sol.nkichhoat == 4)
+            {
+                solanxem = 100;
+                setngonngu(ngon_ngu, "matketnoi");
+            }
+            if (sol.nkichhoat == 5)
+            {
+                label4.Hide();
+                lbsolanxem.Show();
+                setngonngu(ngon_ngu, "sai");
+            }
+        }
 		else
 		{
 			lbhaychonfile.Hide();
