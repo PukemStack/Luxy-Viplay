@@ -25,6 +25,7 @@
     </Reference>
     <Reference Include="dgfokfhdpw855batsolma">
       <HintPath>Assemblies\dgfokfhdpw855batsolma.dll</HintPath>
+    </Reference>
     <Reference Include="System.Core" />
     <Reference Include="xNet">
       <HintPath>Assemblies\xNet.dll</HintPath>
