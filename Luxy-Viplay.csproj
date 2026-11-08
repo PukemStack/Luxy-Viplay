@@ -23,7 +23,8 @@
     <Reference Include="AxInterop.WMPLib">
       <HintPath>Assemblies\AxInterop.WMPLib.dll</HintPath>
     </Reference>
-    <Reference Include="dgfokfhdpw855batsolma" />
+    <Reference Include="dgfokfhdpw855batsolma">
+      <HintPath>Assemblies\dgfokfhdpw855batsolma.dll</HintPath>
     <Reference Include="System.Core" />
     <Reference Include="xNet">
       <HintPath>Assemblies\xNet.dll</HintPath>
