@@ -21,12 +21,12 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="AxInterop.WMPLib">
-      <HintPath>D:\VM\Luxy Viplay\AxInterop.WMPLib.dll</HintPath>
+      <HintPath>Assemblies\AxInterop.WMPLib.dll</HintPath>
     </Reference>
     <Reference Include="dgfokfhdpw855batsolma" />
     <Reference Include="System.Core" />
     <Reference Include="xNet">
-      <HintPath>D:\VM\Luxy Viplay\xNet.dll</HintPath>
+      <HintPath>Assemblies\xNet.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
